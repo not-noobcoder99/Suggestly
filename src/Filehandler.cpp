@@ -1,0 +1,1 @@
+/*Manages loading/saving dictionary files.*/
